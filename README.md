@@ -1,5 +1,6 @@
 # PRIMER PROYECTO DE PRUEBA
-Aqui vamos a empezar con python
+El maetro Keiner me va a compartir de sus conocimientos.
+Comenzamos aprendiendo
 ``` python
 print("HOLA MUNDO")
 ```
