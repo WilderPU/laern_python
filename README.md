@@ -4,4 +4,7 @@ Comenzamos aprendiendo como es la estructura de una ventana para hacer interface
 ``` python
 import tkinter as tk
 ```
-Con esa linea de codigo podemos importar todos los archivos de la libreria de tjinter para poder usarlos.
+Con esa linea de codigo podemos importar todos los archivos de la libreria de tkinter para poder usarlos.  
+```HTML
+<a href="https://docs.python.org/3/library/pickle.html">Documentación de Pickle</a>
+```
