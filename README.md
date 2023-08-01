@@ -1,10 +1,6 @@
-# PRIMER PROYECTO DE PRUEBA
-El maetro Keiner me va a compartir de sus conocimientos.  
-Comenzamos aprendiendo como es la estructura de una ventana para hacer interfaces de usuario.
-``` python
-import tkinter as tk
-```
-Con esa linea de codigo podemos importar todos los archivos de la libreria de tkinter para poder usarlos.  
-```HTML
-<a href="https://docs.python.org/3/library/pickle.html">Documentación de Pickle</a>
-```
+# APRENDIZAJE DE PYTHON - FRAMEWORK
+El maestro Keiner me va a compartir de sus conocimientos XD  
+Todos los archivos son las bases de mi aprendizaje como ejemplos que me dé, miniproyectos que pueda crear por mi propia cuenta y demás cosas que puedan surgir.  
+
+Aqui pondré algunas cosas bastante generales que no sabía y pues que ahora si sé XD.  
+* Hola
